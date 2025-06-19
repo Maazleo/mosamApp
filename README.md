@@ -1,4 +1,7 @@
 # 🌦️ Mosam - Flutter Weather App
+## 🌐 Live Demo
+
+[Click here to view the live site](https://mosamapka.netlify.app)
 
 ![Mosam Banner](https://raw.githubusercontent.com/Maazleo/mosamApp/main/assets/banner.png)
 
